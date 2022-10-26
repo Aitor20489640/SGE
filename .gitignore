@@ -1,6 +1,7 @@
 # Cosas del Intellij
 .idea/
 *.iml
+out/
 
 
 # Byte-compiled / optimized / DLL files
