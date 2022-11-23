@@ -1,0 +1,6 @@
+print("Dime el numero de horas trabajadas: ")
+horas = input()
+print("Dime el coste por hora")
+costeH = input()
+result = float(horas) * float(costeH)
+print(result)
